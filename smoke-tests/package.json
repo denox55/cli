@@ -20,10 +20,10 @@
   "devDependencies": {
     "@npmcli/eslint-config": "^3.1.0",
     "@npmcli/promise-spawn": "^3.0.0",
-    "@npmcli/template-oss": "3.8.1",
+    "@npmcli/template-oss": "4.28.1",
     "minify-registry-metadata": "^2.2.0",
     "rimraf": "^3.0.2",
-    "tap": "^16.0.1",
+    "tap": "^21.5.0",
     "which": "^2.0.2"
   },
   "author": "GitHub Inc.",
